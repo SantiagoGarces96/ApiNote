@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiNote", "ApiNote\ApiNote.csproj", "{87212EC4-2537-4DF1-90E5-209CCF5F090D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{D2627FC0-C2DA-4F11-B68B-363D69B0C369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure", "Infraestructure\Infraestructure.csproj", "{197F12E0-82A5-4109-9C69-458B298A7612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87212EC4-2537-4DF1-90E5-209CCF5F090D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87212EC4-2537-4DF1-90E5-209CCF5F090D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87212EC4-2537-4DF1-90E5-209CCF5F090D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87212EC4-2537-4DF1-90E5-209CCF5F090D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2627FC0-C2DA-4F11-B68B-363D69B0C369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2627FC0-C2DA-4F11-B68B-363D69B0C369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2627FC0-C2DA-4F11-B68B-363D69B0C369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2627FC0-C2DA-4F11-B68B-363D69B0C369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{197F12E0-82A5-4109-9C69-458B298A7612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197F12E0-82A5-4109-9C69-458B298A7612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197F12E0-82A5-4109-9C69-458B298A7612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197F12E0-82A5-4109-9C69-458B298A7612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A6E33E5-0D88-4540-A1F8-EBCFC487243E}
+	EndGlobalSection
+EndGlobal
